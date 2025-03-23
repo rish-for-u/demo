@@ -1,4 +1,4 @@
 # demo
 This is my first git repository
 <br>
-Author- Rishu Kumar
+Author- Rishu (rish_for_u)
